@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+
+//const Color kPrimary = Color(0xff4f48ec);
+const Color kPrimary = Color(0xFF131313);
+const Color kPrimaryDark =  Colors.black;
+const Color kBlue = Color(0xff0100fe);
+const Color kGray = Color(0xffdcdcdc);
+const Color kBlack = Color(0xff030303);
+const Color kTransparent = Colors.transparent;
+const Color kWhite = Color(0xffffffff);
+const Color kPurple = Color(0xff735ed5);
+const Color kRed = Colors.red;
+const Color kGreen = Colors.green;
+const Color kGreenDark = Color(0xff1B5E20);
+const Color kBluedark2 = Color(0xff232429);
+const Color kOrangedark = Colors.orange;
+const Color kBlueDark = Color.fromRGBO(48, 113, 178, 1);
+const Color kGreenLight = Color.fromRGBO(32, 204, 149, 1);
+const Color kGrayDark = Color.fromRGBO(84, 80, 80, 1);
+const Color kGrayLight = Color.fromRGBO(168, 166, 166, 1);
+const Color kBlueLessDark = Color(0xff282c37);
+const Color kBluebackground = Color(0xff2e3649);
+const Color kGrayLessDark = Color(0xff40444f);
+const Color kBlueLight = Color(0xff2b73dc);
+const Color kBluebackButton = Color(0xff1f2e45);
+const Color kBluePurple = Color(0xff598ecf);
+const Color kViolet = Color(0xff790049);
